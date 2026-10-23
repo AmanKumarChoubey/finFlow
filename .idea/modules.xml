@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/finFlow.iml" filepath="$PROJECT_DIR$/.idea/finFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finFlow/finFlow.iml" filepath="$PROJECT_DIR$/finFlow/finFlow.iml" />
     </modules>
   </component>
 </project>
